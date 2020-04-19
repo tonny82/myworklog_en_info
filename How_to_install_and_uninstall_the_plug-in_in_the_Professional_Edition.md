@@ -1,0 +1,1 @@
+# [ow to install and uninstall the plug-in in the open source version
